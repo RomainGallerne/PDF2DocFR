@@ -34,4 +34,4 @@ Romain Gallerne
 
 # Copyright
 
-Attribution-NonCommercial-ShareAlike 4.0 International
+CC BY NC-SA
